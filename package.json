@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/oliverandres15/fullstack-javascript-project-98/issues"
   },
-  "homepage": "https://github.com/oliverandres15/fullstack-javascript-project-98#readme"
+  "homepage": "https://github.com/oliverandres15/fullstack-javascript-project-98#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^9.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-xo": "^0.49.0",
+    "eslint-plugin-import": "^2.32.0"
+  }
 }
